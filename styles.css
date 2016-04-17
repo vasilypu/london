@@ -6,11 +6,3 @@ body{
 	background: #b1c0c6;
 	color:white;
 }
-a{
-	color:grey;
-	font-family: serif;
-}
-a:hover{
-	color:black;
-	text-decoration:none;
-}
